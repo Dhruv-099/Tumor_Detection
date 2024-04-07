@@ -34,7 +34,7 @@ The following Python libraries are required to run this project:
 
 1. Clone the repository or download the project files.
 2. Install the required dependencies.
-3. Run the `Tumor_Detection_model_Dhruv_Bobal.ipynb` notebook.
+3. Run the `Tumor_Detection_model.ipynb` notebook.
 
 The notebook contains the complete code for data exploration, preprocessing, model training, and evaluation.
 
